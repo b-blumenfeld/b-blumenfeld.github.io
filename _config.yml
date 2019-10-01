@@ -1,11 +1,11 @@
 # Site settings
 author: Blair Blumenfeld
-title: 
+title: Becoming a Data Scientist
 header-img: img/home-bg.png
 email: bblumenfeld03@gmail.com
 copyright_name: Blair Blumenfeld
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Taking on the world one method at a time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  b-blumenfeld
